@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/max/PhpstormProjects/dev.svarkalegko.com/web/modules/custom/ads_manager'
+let g:netrw_dirhist_2='/home/max'
+let g:netrw_dirhist_3='/home/max/PhpstormProjects/dev.svarkalegko.com/web/themes/custom/svarkatheme'
+let g:netrw_dirhist_4='/home/max/PhpstormProjects/dev.svarkalegko.com/web/themes/custom/svarkatheme/scss'
+let g:netrw_dirhist_5='/home/max/PhpstormProjects/dev.svarkalegko.com/web/themes/custom/svarkatheme/scss/components'
+let g:netrw_dirhist_6='/home/max'
+let g:netrw_dirhist_7='/mnt/data/max/Documents/projects'
+let g:netrw_dirhist_8='/home/max/PhpstormProjects/pr8.examplesite.loc/public_html/modules/contrib/layout_plugin'
